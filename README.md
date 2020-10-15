@@ -4,7 +4,7 @@ Here you will find a range of different Jupyter notebooks with which you can int
 
 ### Teaching Notebooks:
 
-- [Tutorial on the Particle in a Box](https://maurergroup.github.io/hosted_notebooks/Tutorial_Particle_in_box)
+- [Tutorial on the Particle in a Box](https://maurergroup.github.io/hosted_notebooks/1D_QM_Models.html)
 
 
 
