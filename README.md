@@ -15,3 +15,7 @@ Here you will find a range of different Jupyter notebooks with which you can int
 
 
 
+If you want to run notebooks properly, click the Binder button
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maurergroup/hosted_notebooks/master)
+
+
