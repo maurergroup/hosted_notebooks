@@ -1,3 +1,9 @@
 numpy
 ipywidgets
 nbinteract
+scipy
+bokeh
+matplotlib
+pandas
+git+https://github.com/maurergroup/qm_playground.git
+
