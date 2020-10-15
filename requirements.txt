@@ -1,8 +1,8 @@
 numpy
 scipy
 ipywidgets
-nbformat<5
 nbinteract
+nbformat
 bokeh
 matplotlib
 pandas
