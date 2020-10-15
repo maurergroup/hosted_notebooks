@@ -1,6 +1,7 @@
 numpy
 scipy
 ipywidgets
+nbformat<5
 nbinteract
 bokeh
 matplotlib
